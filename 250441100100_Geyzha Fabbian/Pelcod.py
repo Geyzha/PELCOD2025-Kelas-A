@@ -25,8 +25,8 @@ print("="*50)
 # c = tahun_sekarang - tahun_lahir
 # print("usia kamu" , c)
 
-# bil_1 = 51
-# bil_2 = 7
+bil_1 = 51
+bil_2 = 7
 
 # modulus = bil_1 % bil_2
 # print(modulus)
@@ -34,8 +34,8 @@ print("="*50)
 # jumlah = int(bil_1)+int(bil_2)
 # print(jumlah)
 
-# cek = bil_1 > bil_2
-# print(cek) 
+cek = bil_1 > bil_2
+print(cek) 
 
 saldo_awal = float(input("masukan saldio awal :"))
 deposit = float(input("masukan saldo deposit :"))
